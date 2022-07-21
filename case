@@ -1,0 +1,5 @@
+select job_id, CASE job_id
+WHEN ‘ST_CLERK’ THEN ‘E’
+WHEN ‘ST_CLERK’ THEN ‘D’
+WHEN ‘ST_CLERK’ THEN ‘C’
+WHEN ‘ST_CLERK’ THEN ‘B’ 
